@@ -488,7 +488,6 @@ body.dark .about{
     padding: 25px;
     text-align: center;
     box-shadow: 0 8px 25px rgba(0,0,0,.06);
-    position: sticky;
     top: 30px;
 }
 body.dark .about-photo-card{
