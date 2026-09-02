@@ -562,6 +562,7 @@ body.dark .about-social-mini a{
 
 .about-main{
     min-width: 0;
+    background-color: #fff;
 }
 .about-role-tag{
     display: inline-block;
